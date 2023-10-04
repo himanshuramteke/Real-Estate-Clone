@@ -1,4 +1,4 @@
-# Real Estate Website Clone
+# Real EState Website Clone
 This is a dummy website of Real Estate which is built using HTML and CSS.
 
 ## Technologies used
